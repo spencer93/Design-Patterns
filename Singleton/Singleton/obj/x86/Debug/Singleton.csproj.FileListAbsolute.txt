@@ -1,0 +1,5 @@
+/Users/spencermaas/Documents/GitHub/Design-Patterns/Singleton/Singleton/bin/Debug/Singleton.exe
+/Users/spencermaas/Documents/GitHub/Design-Patterns/Singleton/Singleton/bin/Debug/Singleton.pdb
+/Users/spencermaas/Documents/GitHub/Design-Patterns/Singleton/Singleton/obj/x86/Debug/Singleton.csproj.CoreCompileInputs.cache
+/Users/spencermaas/Documents/GitHub/Design-Patterns/Singleton/Singleton/obj/x86/Debug/Singleton.exe
+/Users/spencermaas/Documents/GitHub/Design-Patterns/Singleton/Singleton/obj/x86/Debug/Singleton.pdb
